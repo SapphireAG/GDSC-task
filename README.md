@@ -1,5 +1,5 @@
 # **GDSC CIFAR-10 Image Classification Task**
-
+#**GDSC_Recruitment_Task.ipynb** has my final updates for the task
 ## **Overview**  
 This project involves classifying images from the **CIFAR-10 dataset**, which contains **60,000 32×32 images** across **10 different classes**. The dataset is split into:  
 - **Training Set**: 50,000 images  
