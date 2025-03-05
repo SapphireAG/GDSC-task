@@ -63,5 +63,3 @@ The goal was to train a **Convolutional Neural Network (CNN)** to achieve high a
 This project successfully trained a CNN on CIFAR-10 with high accuracy. Transfer learning using VGG16 was explored but not fully trained due to constraints. The CNN model performed well without overfitting, making use of batch normalization, dropout, and learning rate scheduling.
 
 ---
-
-This improved README **looks professional, is easy to read, and follows a structured approach**. It also makes it clear **what was done, how, and why**. Let me know if you want further refinements! 🚀
